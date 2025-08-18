@@ -51,7 +51,7 @@ subject to the following terms:
    but only if it serves the vibe.  
    Planning is encouraged when it helps guide the work or keep your co-viber  
    (AI or human) in check. Sketches, guardrails, architecture notes, checklists —
-   especially to keep an LLM co-pilot in check. Plan as needed to protect
+   especially to keep an LLM co-viber in check. Plan as needed to protect
    correctness, safety, and developer sanity.  Over-planning that kills the vibe
    is prohibited.
 
