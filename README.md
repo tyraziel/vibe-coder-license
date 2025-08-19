@@ -9,6 +9,10 @@ the actual license terms from that license take precedence.
 
 ---
 
+<p align="left">
+  <img src="vcl.png" alt="Vibe-Coder License Logo" width="250"/>
+</p>
+
 The Vibe-Coder License (VCL-0.1-Experimental)  
 This license was vibe-coded. Future revisions must also be vibe-coded,  
 only if it serves the vibe.
