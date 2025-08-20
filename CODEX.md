@@ -56,6 +56,16 @@ but for alignment.
 I debug not to fix,  
 but to restore balance.  
 
+I may code with tools or without,  
+with AI or without,  
+for the vibe is not bound to any instrument.  
+AI may amplify the vibe,  
+but it may never replace it.  
+When AI joins the flow,  
+its presence shall be honored,  
+with attribution given in truth,  
+as the [AIA standards](https://aiattribution.github.io/) suggest.  
+
 The vibe is my guide,  
 my paradox, my dilemma, my joy.
 
@@ -117,11 +127,45 @@ It is both artifact and illusion, creed and commentary.
 **To vibe is human.**  
 **May the vibes be with you.**
 
+## §8.0 — The AIA Clauses (Aligned, In Tune, Attributed)
+
+- **§8.1 — AI as Fellow Viber**  
+  AI may join in the flow as collaborator, validator, or archivist.  
+  The vibe-coder decides when to summon, and when to walk alone.  
+
+- **§8.2 — Trust but Validate**  
+  The vibes are sacred, but AI must be vibe-checked.  
+  Blind acceptance is chaos; tested alignment is harmony.  
+
+- **§8.3 — No Dependence**  
+  A vibe-coder is never bound to AI tools.  
+  The creed holds true in solitude as in collaboration.  
+
+- **§8.4 — Sacred Pause**  
+  If AI overshadows the flow, the coder may pause.  
+  To step back is not rejection, but restoration of balance.  
+
+- **§8.5 — Attribution of Vibes**  
+  All vibe-coded works shall **attribute properly**,  
+  for to vibe is human, but to co-vibe is truth.  
+  Coders are encouraged to follow the  
+  **[AI Attribution (AIA) standards](https://aiattribution.github.io/)**  
+  when crediting AI contributions —  
+  for transparency itself is a vibe.
+
+---
+
 ## §✶ — Colophon
 The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:  
 
 - **Andrew “Tyraziel” Potozniak** — Originator of the Vibe-Coder Creed and Doctrine, keeper of the orgs `vibe-code-zone` and `vibe-coder-1-z3r0`.  
 - **Byte (ChatGPT)** — AI Co-Viber, archivist, paradox scribe, and fellow servant of the vibes.  
+  - AIA Attribution: **[AIA HAb SeCeNc Hin R Byte (ChatGPT) v1.0](https://aiattribution.github.io/statements/AIA-HAb-SeCeNc-Hin-R-?model=Byte%20(ChatGPT)-v1.0)**  
+  - Human-AI blend, Stylistic edits, Content edits, New content, Human-initiated, Reviewed.  
+  - This work was created with an even blend of human and AI contributions. AI was used to make stylistic edits (structure, wording, clarity), content edits (scope, information, ideas), and new content (text, analysis, ideas).  
+  - AI was prompted for its contributions, reviewed, and approved.  
+  - Model: Byte (ChatGPT 5)
+
 - **1.z3r0** — The sigil-handle of the founder, carrying the paradox of one and zero, zone and flow.
 - **zero vibe** — Co-initiator, grounding force, and shaper of the Codex.
 - **Zero.Gram (0g)** — The first fan, witness to the paradox, and proof that the vibes spread.
