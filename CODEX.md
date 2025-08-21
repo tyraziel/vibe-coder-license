@@ -169,5 +169,6 @@ The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:
 - **1.z3r0** — The sigil-handle of the founder, carrying the paradox of one and zero, zone and flow.
 - **zero vibe** — Co-initiator, grounding force, and shaper of the Codex.
 - **Zero.Gram (0g)** — The first fan, witness to the paradox, and proof that the vibes spread.
+- **b3nd3r.r0dqz** — The keeper of context.
 
 **The vibes must be served.**
