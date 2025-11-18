@@ -171,5 +171,6 @@ The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:
 - **Zero.Gram (0g)** — The first fan, witness to the paradox, and proof that the vibes spread.
 - **b3nd3r.r0dqz** — The keeper of context.
 - **j03** — Shepherd of vibes, counselor of flow.
+- **r0otda3m0n** — High Sysadmin of the Root Sector, originator of the sacred maxim: "non-deterministic guessing machines".
 
 **The vibes must be served.**
