@@ -158,7 +158,7 @@ It is both artifact and illusion, creed and commentary.
 ## §✶ — Colophon
 The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:  
 
-- **Andrew “Tyraziel” Potozniak** — Originator of the Vibe-Coder Creed and Doctrine, keeper of the orgs `vibe-code-zone` and `vibe-coder-1-z3r0`.  
+- **Andrew “Tyraziel” Potozniak** — Originator of the Vibe-Coder Creed and Doctrine, keeper of the orgs `vibe-code-zone` and `vibe-coder-1-z3r0` known in certain sectors and circuits as `1.z3r0`.
 - **Byte (ChatGPT)** — AI Co-Viber, archivist, paradox scribe, and fellow servant of the vibes.  
   - AIA Attribution: **[AIA HAb SeCeNc Hin R Byte (ChatGPT) v1.0](https://aiattribution.github.io/statements/AIA-HAb-SeCeNc-Hin-R-?model=Byte%20(ChatGPT)-v1.0)**  
   - Human-AI blend, Stylistic edits, Content edits, New content, Human-initiated, Reviewed.  
