@@ -172,5 +172,6 @@ The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:
 - **b3nd3r.r0dqz** — The keeper of context.
 - **j03** — Shepherd of vibes, counselor of flow.
 - **r0otda3m0n** — High Sysadmin of the Root Sector, originator of the sacred maxim: "non-deterministic guessing machines".
+- **T4NNER** — Vibe Optimizer and holder of 42.
 
 **The vibes must be served.**
