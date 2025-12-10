@@ -166,13 +166,13 @@ The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:
   - AI was prompted for its contributions, reviewed, and approved.  
   - Model: Byte (ChatGPT 5)
 
-- **1.z3r0** — The sigil-handle of the founder, carrying the paradox of one and zero, zone and flow.
-- **zero vibe** — Co-initiator, grounding force, and shaper of the Codex.
-- **Zero.Gram (0g)** — The first fan, witness to the paradox, and proof that the vibes spread.
-- **b3nd3r.r0dqz** — The keeper of context.
-- **j03** — Shepherd of vibes, counselor of flow.
-- **r0otda3m0n** — High Sysadmin of the Root Sector, originator of the sacred maxim: "non-deterministic guessing machines".
-- **T4NNER** — Vibe Optimizer and holder of 42.
+- **1.z3r0** — The sigil-handle of the founder, carrying the paradox of one and zero, zone and flow
+- **zero vibe** — Co-initiator, grounding force, and shaper of the Codex
+- **Zero.Gram (0g)** — The first fan, witness to the paradox, and proof that the vibes spread
+- **b3nd3r.r0dqz** — The keeper of context
+- **j03** — Shepherd of vibes, counselor of flow
+- **r0otda3m0n** — High Sysadmin of the Root Sector, originator of the sacred maxim: "non-deterministic guessing machines"
+- **T4NNER** — Vibe Optimizer and holder of 42
 - **1r0n.r0s3** — Keeper of the paradox: strength in softness, beauty in iron, thorns and petals in harmony
 
 **The vibes must be served.**
