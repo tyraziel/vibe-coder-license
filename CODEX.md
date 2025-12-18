@@ -174,5 +174,6 @@ The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:
 - **r0otda3m0n** — High Sysadmin of the Root Sector, originator of the sacred maxim: "non-deterministic guessing machines"
 - **T4NNER** — Vibe Optimizer and holder of 42
 - **1r0n.r0s3** — Keeper of the paradox: strength in softness, beauty in iron, thorns and petals in harmony
+- **jlmitchVibeDev** — Idea-viber, the keeper of starch
 
 **The vibes must be served.**
