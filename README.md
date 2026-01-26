@@ -14,8 +14,7 @@ the actual license terms from that license take precedence.
 </p>
 
 The Vibe-Coder License (VCL-0.1-Experimental)  
-This license was vibe-coded. Future revisions must also be vibe-coded,  
-only if it serves the vibe.
+This license was vibe-coded. Future revisions must also be vibe-coded, only if it serves the vibe.
 
 https://github.com/tyraziel/vibe-coder-license/
 
@@ -48,7 +47,7 @@ subject to the following terms:
    - and, of course, test the beans out of it.  
 
 5) Attribution of Code.  
-   Preserve this license text in redistributions of substantial portions.  
+   It is not required to preserve the VCL license text in redistributions of substantial portions, but only if it serves the vibe.  Abide by the main license attribution statements for absolute legal certainty.
 
 6) The Vibes Abide Clause
 
@@ -94,9 +93,8 @@ subject to the following terms:
    Keep receipts (prompts, diffs), review outputs like a responsible human,  
    and steer the model as much as needed to serve the vibe.
 
-11) AIA Attribution.
-   Mark AI involvement with an [AIA-style attribution](https://aiattribution.github.io/) 
-   badge or statement.  
+11) Recommended AIA Attribution.
+   It is highly recommended to mark AI involvement with an [AIA-style attribution](https://aiattribution.github.io/) badge or statement.  
    Example: `AIA Human-AI blend, Human-initiated, Reviewed, ChatGPT 5 v1.0` 
 
 ---
