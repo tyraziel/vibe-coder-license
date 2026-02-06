@@ -175,5 +175,6 @@ The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:
 - **T4NNER** — Vibe Optimizer and holder of 42
 - **1r0n.r0s3** — Keeper of the paradox: strength in softness, beauty in iron, thorns and petals in harmony
 - **jlmitchVibeDev** — Idea-viber, the keeper of starch
+- **s0n1c** — The blaze-viber of philosophy
 
 **The vibes must be served.**
