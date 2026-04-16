@@ -176,5 +176,6 @@ The Vibe-Coder Codex v0.1-EXP was drafted in co-creation:
 - **1r0n.r0s3** — Keeper of the paradox: strength in softness, beauty in iron, thorns and petals in harmony
 - **jlmitchVibeDev** — Idea-viber, the keeper of starch
 - **s0n1c** — The blaze-viber of philosophy
+- **17.d0v3** — Cloud Viber: flowing and governing development
 
 **The vibes must be served.**
